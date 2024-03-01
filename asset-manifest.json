@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/SDP/static/css/main.d0903259.css",
-    "main.js": "/SDP/static/js/main.81e86f4a.js",
+    "main.css": "/SDP/static/css/main.2a7e9902.css",
+    "main.js": "/SDP/static/js/main.48a55790.js",
     "static/media/Shadow_logo.png": "/SDP/static/media/Shadow_logo.7a870423d28ef3c6c305.png",
     "index.html": "/SDP/index.html",
-    "main.d0903259.css.map": "/SDP/static/css/main.d0903259.css.map",
-    "main.81e86f4a.js.map": "/SDP/static/js/main.81e86f4a.js.map"
+    "main.2a7e9902.css.map": "/SDP/static/css/main.2a7e9902.css.map",
+    "main.48a55790.js.map": "/SDP/static/js/main.48a55790.js.map"
   },
   "entrypoints": [
-    "static/css/main.d0903259.css",
-    "static/js/main.81e86f4a.js"
+    "static/css/main.2a7e9902.css",
+    "static/js/main.48a55790.js"
   ]
 }
