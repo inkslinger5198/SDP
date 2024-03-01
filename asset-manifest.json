@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/SDP/static/css/main.542188df.css",
-    "main.js": "/SDP/static/js/main.061ceed7.js",
+    "main.js": "/SDP/static/js/main.c80b3b2d.js",
     "index.html": "/SDP/index.html",
     "main.542188df.css.map": "/SDP/static/css/main.542188df.css.map",
-    "main.061ceed7.js.map": "/SDP/static/js/main.061ceed7.js.map"
+    "main.c80b3b2d.js.map": "/SDP/static/js/main.c80b3b2d.js.map"
   },
   "entrypoints": [
     "static/css/main.542188df.css",
-    "static/js/main.061ceed7.js"
+    "static/js/main.c80b3b2d.js"
   ]
 }
