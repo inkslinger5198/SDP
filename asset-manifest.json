@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/SDP/static/css/main.542188df.css",
+    "main.js": "/SDP/static/js/main.061ceed7.js",
+    "index.html": "/SDP/index.html",
+    "main.542188df.css.map": "/SDP/static/css/main.542188df.css.map",
+    "main.061ceed7.js.map": "/SDP/static/js/main.061ceed7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.542188df.css",
+    "static/js/main.061ceed7.js"
+  ]
+}
