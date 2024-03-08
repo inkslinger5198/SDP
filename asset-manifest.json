@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.8b04c236.css",
+    "main.css": "/static/css/main.fa8ce3b2.css",
     "main.js": "/static/js/main.67a85348.js",
     "static/media/SDP Thesis.pptx": "/static/media/SDP Thesis.2635ec8219f922e25a20.pptx",
     "static/media/VSL LOGO.png": "/static/media/VSL LOGO.2f63d4c5057959268a7d.png",
@@ -8,11 +8,11 @@
     "static/media/3.png": "/static/media/3.39d465973f5de0bbf76a.png",
     "static/media/1.png": "/static/media/1.39dfc403b24dd2e02f79.png",
     "index.html": "/index.html",
-    "main.8b04c236.css.map": "/static/css/main.8b04c236.css.map",
+    "main.fa8ce3b2.css.map": "/static/css/main.fa8ce3b2.css.map",
     "main.67a85348.js.map": "/static/js/main.67a85348.js.map"
   },
   "entrypoints": [
-    "static/css/main.8b04c236.css",
+    "static/css/main.fa8ce3b2.css",
     "static/js/main.67a85348.js"
   ]
 }
